@@ -24,7 +24,10 @@ public class ConstructorJavaExample
 {
     public static void main(String[] args)
     {
-        Son s=new Son(25,"Dnyaneshwar",100);
+
+            Son s = new Son(25, "Dnyaneshwar", 100);
+
+
 
     }
 }
